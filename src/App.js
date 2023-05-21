@@ -7,7 +7,7 @@ function App() {
       <Login />
       <header className="App-header">
         <p>
-          Meu Time
+          Meu Time!
         </p>
       </header>
     </div>
